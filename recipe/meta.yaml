@@ -1,6 +1,6 @@
 {% set name = "engarde" %}
 {% set version = "0.4.0" %}
-{% set sha256 = "70df13ed1470d099b359c514f8da6835ce5645c8f79b3edd537f641a8699e1db" %}
+{% set sha256 = "05cb8e5299d64ac1cd277fe69815b2a611af1607d2686461b46a357210b040f2" %}
 
 package:
   name: {{ name|lower }}
