@@ -20,11 +20,11 @@ requirements:
   build:
     - python
     - setuptools
-    - numpy x.x
+    - numpy
     - pandas
   run:
     - python
-    - numpy x.x
+    - numpy
     - pandas
 test:
   imports:
